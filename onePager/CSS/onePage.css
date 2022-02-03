@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #333439;
+    font-family: sans-serif;
+    animation: colorchange 60s linear 1s infinite;
+
+}
+
+#headSection{
+    width: 300px;
+    margin: 50px;
+    padding: 20px;
+}
+/* Background color change */
+@keyframes colorchange
+{
+    0%   {background: #3beed9; }
+    20%   {background: #0f9f9f; }
+    40%   {background: #4262e3; }
+    60%  {background: #4262e3; }
+    80%  {background: #0f9f9f; }
+    100% {background: #3beed9; }
+}
+main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+nav {
+    color: white;
+    font-weight: bolder;
+    font-size: 1.2em;
+    display: flex;
+
+}
+
+nav div {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    flex-grow: 1;
+    text-align: center;
+    background-color: #30a5a5;
+    cursor: pointer;
+    transition: all 0.4s ease-out;
+    border: solid;
+    border-radius: 5px;
+
+}
+
+nav div:hover {
+    background-color: white;
+    color: #808083;
+}
+
+h1 {
+    margin: 0;
+    color: #22b4ff;
+}
+
+#bodySection {
+    margin: 50px;
+    padding: 20px;
+    background-color: white;
+    border: solid;
+    border-radius: 20px;
+}
+
+.explain{
+    padding-top: 20px;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    Border: solid;
+    margin:auto;
+    margin-top: 10px;
+}
+
+header {
+    text-align: center;
+    height: 40vh;
+    line-height: 40vh;
+    font-size: 2em;
+    font-weight: bolder;
+    color: white;
+    text-shadow: #333439;
+    background-image: url('../img/TZ_4-1047x648-c-center.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+footer {
+    background-color: #808083;
+    padding: 70px 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+#footerSection{
+    width: 300px;
+    margin-right: 10px;
+
+}
+a {
+    color:black;
+}
+/* Media query for phone users */
+@media screen and (max-width: 550px) {
+    nav {
+        display: block;
+    }
+    .explain{
+        width: 100%;
+    }
+}
