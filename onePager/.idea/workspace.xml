@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bccdacf5-9120-479e-a33b-56a67d682bf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aupair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aupair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/welkomPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/dbconnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../database/dbconnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/onePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Old/CSS/onePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/slideShow.css" beforeDir="false" afterPath="$PROJECT_DIR$/Old/CSS/slideShow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1ec5af25be87bfd60eb99221b4d3e5b7-snapshot_header.png" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/1ec5af25be87bfd60eb99221b4d3e5b7-snapshot_header.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/IMG_20190727_012252.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/IMG_20190727_012252.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/IMG_20190727_212424.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/IMG_20190727_212424.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/IMG_20200521_212916.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Old/img/IMG_20200521_212916.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/autoscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/Old/javascript/autoscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/slideShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/Old/javascript/slideShow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Old/onePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24n0nH8W4zTxhW2C0nXTv8NjymW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -31,8 +55,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\AUPAIR concepts\aupairProject\onePager\img" />
+      <recent name="D:\XAMPP\htdocs\AUPAIR concepts\aupairProject\onePager" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,6 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1644251208563</updated>
       <workItem from="1644251209777" duration="270000" />
+      <workItem from="1645211590683" duration="443000" />
+      <workItem from="1645212109349" duration="1628000" />
     </task>
     <servers />
   </component>
